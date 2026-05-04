@@ -1,5 +1,8 @@
 # @zumerbox/code-format
 
+> [!WARNING]
+> **DEPRECATED.** Replaced by [`@zumerbox/lint-preset`](https://github.com/zumerlab/zumerbox-lint-preset). Use the `format` binary in that package.
+
 This tool is designed to facilitate code formatting using Prettier, a popular code formatting tool. It checks the formatting of JavaScript, HTML, and Markdown files within specified directories and their subdirectories.
 
 
